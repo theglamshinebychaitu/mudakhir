@@ -26,5 +26,3 @@ Finance app
 ![App UI](/image7.jpg)
 ![App UI](/image8.jpg)
 ![App UI](/image9.jpg)
-![App UI](/image10.jpg)
-![App UI](/image11.jpg)
